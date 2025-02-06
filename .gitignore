@@ -1,3 +1,11 @@
+# Emoji directories
+emoji/google/*.png
+emoji/twitter/*.png
+
+# Other stuff
+comic.png
+go.sum
+
 # Compiled Object files, Static and Dynamic libs (Shared Objects)
 *.o
 *.a
